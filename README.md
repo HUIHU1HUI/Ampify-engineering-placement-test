@@ -19,5 +19,5 @@ A simple web json parsing script written in javascript.
 - Prints a list of packs with genre matching hip-hop
 - Saves the contents of https://api.ampifymusic.com/packs to the directory
 
-To run, simply navigate to the folder in terminal and run "node server."
+To run, simply navigate to the folder in terminal and run "node server"
 Requires node.js 
