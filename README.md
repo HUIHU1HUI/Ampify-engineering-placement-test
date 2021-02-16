@@ -1,4 +1,4 @@
-# Ampify-engineering-placement-test
+# Ampify-engineering-placement-tasks
 
 Technical tests for Ampify's engineering placement.
 
