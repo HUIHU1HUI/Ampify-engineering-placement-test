@@ -68,7 +68,6 @@ private:
      
         if (auto pos = input.find (character); pos != std::string::npos){
             if (input.substr(0, pos) == "pi"){
-//                std::cout<<pi<<std::endl;
                 return pi;
             }
             else {
@@ -189,7 +188,6 @@ public:
         std::string inputLowercase;
         for (int i = 0; i < input.length(); i++){
             inputLowercase.push_back(std::tolower(input[i]));
-            //std::cout<<inputLowercase<<std::endl;
         }
         //No need for capitalised Q since input has been made lowercase
         if (input == "q")
