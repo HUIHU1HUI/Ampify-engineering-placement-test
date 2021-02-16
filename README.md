@@ -9,7 +9,7 @@ Things I changed:
 - Input formatting so that spaces and upper/lower case are emitted, ensuring the calculator understands any way the user types the calculation.  For example typing "pi*4" and "PI * 4" are both understood as the same.
 
 Make sure to compile using C++17[-std=c++17] or GNU++17[-std=GNU++17]
-The compiled command line app is included.
+The compiled command line app and xcode project file are included.
 
 Web API Parsing test:
 A simple web json parsing script written in javascript.
