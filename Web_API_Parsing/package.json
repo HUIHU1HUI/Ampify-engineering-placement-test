@@ -1,0 +1,13 @@
+{
+  "name": "focusrite_webapi",
+  "version": "1.0.0",
+  "description": "Downloads the contents of https://api.ampifymusic.com/packs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Hui",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
